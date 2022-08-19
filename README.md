@@ -7,7 +7,7 @@
 
 ### Live
 
-🔗 https://ui-design-day6-pricecard.vercel.app/
+🔗 https://ui-design-day6-jobcard.vercel.app/
 
 ### Installation
 
